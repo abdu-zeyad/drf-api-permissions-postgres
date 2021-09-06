@@ -6,6 +6,8 @@ authors = ["Abdelmajed-zeyad <abd.d@live.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+psycopg2-binary = "^2.9.1"
+Django = "^3.2.7"
 
 [tool.poetry.dev-dependencies]
 
